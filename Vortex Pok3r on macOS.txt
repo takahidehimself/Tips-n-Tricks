@@ -1,0 +1,64 @@
+Vortex Pok3r on macOS
+---------------------
+
+I've switched places between Left Alt and the Win key, moved FN to Left Ctrl,
+moved Right Alt to FN's original position and then placed Left Ctrl at Right Alt's original position.
+
+Make WASD the new IJKL.
+FN + Right Ctrl
+FN + W, FN + I PN
+FN + A, FN + J PN
+FN + S, FN + K PN
+FN + D, FN + L PN
+FN + Right Ctrl
+
+Turn Caps Lock into Ctrl.
+FN + Right Ctrl
+Caps Lock, Left Ctrl PN
+FN + Right Ctrl
+
+Move FN to Original Left Ctrl.
+Flip DIP SW4 to ON
+FN, Left Ctrl
+Flip DIP SW4 to OFF
+
+Switch places between Alt and Win/Ctrl.
+FN + Right Ctrl
+Right Alt, Right Win PN
+Right Win, Right Alt PN
+Left Alt, Left Win PN
+Left Win, Left Alt PN
+FN + Right Ctrl
+
+I use Swedish layout so I also switch FN + ESC with <.
+FN + Right Ctrl
+FN + ESC, < PN
+<, FN + ESC PN
+FN + Right Ctrl
+
+Move some media keys.
+FN + Right Ctrl
+FN + X, FN + F PN (Mute)
+FN + C, FN + S PN (Volume down)
+FN + V, FN + D PN (Volume up)
+FN + F, FN + W PN (Pause/Play)
+FN + Right Ctrl
+
+
+My Evoluent VerticalMouse4 takes care of the other hotkeys that I use.
+Button 1   - Left Click
+Button 2   - Middle Click
+Button 3   - Right Click
+Button 4   - Forward
+Button 5   - Back
+Button 6   - Secondary Function
+Button 6+1 - Move Left a Space
+Button 6+2 - Move Right a Space
+Button 6+3 - Show Mission Control
+Button 6+4 - Applications
+
+How about Launchpad?
+Applications normally opens Finder>Applications if Finder is active, but I've
+setup a shortcut (Button 6+4 becomes Shift-command-A) under
+System Preferences>Keyboard>Shortcuts>Launchpad & Dock>Show Launchpad which
+takes presedence whatever window you click in.
