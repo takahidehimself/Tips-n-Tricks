@@ -2,7 +2,8 @@ Vortex Pok3r on macOS
 ---------------------
 
 I've switched places between Left Alt and the Win key, moved FN to Left Ctrl,
-moved Right Alt to FN's original position and then placed Left Ctrl at Right Alt's original position.
+moved Right Alt to FN's original position and then placed Left Ctrl at Right
+Alt's original position.
 
 Make WASD the new IJKL.
 FN + Right Ctrl
